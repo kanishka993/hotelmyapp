@@ -1,0 +1,24 @@
+div.th {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    border: 3px solid #73AD21;
+  }
+  div.thumbl {
+    position: absolute;
+    left: 250px;
+    top: 0px;
+    border: 3px solid #73AD21;
+  }
+  div.thumb {
+    position: absolute;
+    left: 500px;
+    top: 0px;
+    
+  }
+  div.thumbb {
+    position: absolute;
+    left: 750px;
+    top: 0px;
+    border: 1px solid #73AD21;
+  }
